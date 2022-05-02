@@ -1,0 +1,27 @@
+.container-login{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: arial;
+  flex-direction: column;
+  width: 30%;
+  margin: 0 auto;
+}
+
+ form{
+  width: 100%;
+}
+
+.respuesta{
+  width: auto;
+  display: block;
+  color: red;
+}
+
+.msj{
+  background: red;
+  color: #ffffff;
+  padding: 8px;
+  display: block;
+}
